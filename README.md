@@ -1,4 +1,4 @@
-# CompTIA Linux+ (XK0-005/006) Flashcard Study App
+# CompTIA Linux+ (XK0-006) Flashcard Study App
 
 A browser-based flashcard app designed for studying the CompTIA Linux+ certification exam. 170 cards covering all 5 exam domains: System Management, Services and User Management, Security, Automation and Scripting, and Troubleshooting.
 
