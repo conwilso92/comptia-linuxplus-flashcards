@@ -12,4 +12,4 @@ A browser-based flashcard app designed for studying the CompTIA Linux+ certifica
 
 All acronyms include the full name underneath the answer. Command cards include a short memory hint before you flip. No login required — works on any device with a browser.
 
-🔗 **[Use The App](https://conwilso92.github.io/comptia-linuxplus-flashcards)**
+[Use the app](https://conwilso92.github.io/comptia-linuxplus-flashcards/)
